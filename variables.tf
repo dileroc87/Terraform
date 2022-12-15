@@ -23,18 +23,3 @@ variable "admin_password" {
   type        = string
   description = "Contraseña de acceso"
 }
-
-variable "PRUEBA" {
-  type        = string
-  description = "Contraseña de acceso"
-}
-
-variable "PRUEBA2" {
-  type        = string
-  description = "Contraseña de acceso"
-}
-
-variable "PRUEBA3" {
-  type        = string
-  description = "Contraseña de acceso"
-}
