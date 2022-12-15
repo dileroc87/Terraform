@@ -1,4 +1,5 @@
 variable "resource_group_name" {
+
   type        = string
   description = "El grupo de recursos."
 }
@@ -19,6 +20,16 @@ variable "admin_username" {
 }
 
 variable "admin_password" {
+  type        = string
+  description = "Contraseña de acceso"
+}
+
+variable "PRUEBA" {
+  type        = string
+  description = "Contraseña de acceso"
+}
+
+variable "PRUEBA2" {
   type        = string
   description = "Contraseña de acceso"
 }
