@@ -33,3 +33,8 @@ variable "PRUEBA2" {
   type        = string
   description = "Contraseña de acceso"
 }
+
+variable "PRUEBA3" {
+  type        = string
+  description = "Contraseña de acceso"
+}
