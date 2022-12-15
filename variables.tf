@@ -23,3 +23,8 @@ variable "admin_password" {
   type        = string
   description = "Contraseña de acceso"
 }
+
+variable "PRUEBA 4" {
+  type        = string
+  description = "Contraseña de acceso"
+}
