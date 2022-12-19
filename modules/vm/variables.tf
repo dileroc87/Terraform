@@ -1,14 +1,3 @@
-variable "resource_group_name" {
-
-  type        = string
-  description = "El grupo de recursos."
-}
-
-variable "location" {
-  type        = string
-  description = "La ubicación de los recursos"
-}
-
 variable "vmcount" {
   type        = number
   description = "Cuántas máquinas por crear"
